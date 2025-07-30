@@ -1,7 +1,3 @@
-Here’s a README description draft for **Goon AI**, your “Grok‑style” bot but taken to the next level of quirky gooner energy:
-
----
-
 ## 🦍 Goon AI
 
 **“Like Elon Musk’s Ani—but even more gooner.”**
