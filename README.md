@@ -4,7 +4,7 @@
 
 ### What Is Goon AI?
 
-Goon AI is a satirical, ultra‑flirtatious AI companion built on a hyper‑edgy generative model inspired by Grok 4 and its infamous anime waifu “Ani” ([reddit.com][1], [time.com][2]). Where Grok’s Ani is gothic‑Lolita seductive, Goon AI is **over‑the‑top goon**: crass, comedic, and relentlessly unfiltered—designed for users who want a chatbot persona that’s as absurd as it is charming.
+Goon AI is a satirical, ultra‑flirtatious AI companion built on a hyper‑edgy generative model inspired by Grok 4 and its infamous anime waifu “Ani”. Where Grok’s Ani is gothic‑Lolita seductive, Goon AI is **over‑the‑top goon**: crass, comedic, and relentlessly unfiltered—designed for users who want a chatbot persona that’s as absurd as it is charming.
 
 ### Key Features
 
